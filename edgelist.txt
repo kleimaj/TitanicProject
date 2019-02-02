@@ -1,0 +1,393 @@
+Braund, Mr. Owen Harris	Braund, Mr. Lewis Richard
+Futrelle, Mrs. Jacques Heath (Lily May Peel)	Futrelle, Mr. Jacques Heath
+Allen, Mr. William Henry	Allen, Miss. Elisabeth Walton
+Moran, Mr. James	Moran, Miss. Bertha
+Moran, Mr. James	Moran, Mr. Daniel J
+Palsson, Master. Gosta Leonard	Palsson, Miss. Torborg Danira
+Palsson, Master. Gosta Leonard	Palsson, Miss. Stina Viola
+Palsson, Master. Gosta Leonard	Palsson, Mrs. Nils (Alma Cornelia Berglund)
+Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)	Johnson, Miss. Eleanor Ileen
+Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)	Johnson, Mr. William Cahoone Jr
+Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)	Johnson, Mr. Alfred
+Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)	Johnson, Mr. Malkolm Joackim
+Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)	Johnson, Master. Harold Theodor
+Nasser, Mrs. Nicholas (Adele Achem)	Nasser, Mr. Nicholas
+Sandstrom, Miss. Marguerite Rut	Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)
+Andersson, Mr. Anders Johan	Andersson, Miss. Erna Alexandra
+Andersson, Mr. Anders Johan	Andersson, Miss. Ellis Anna Maria
+Andersson, Mr. Anders Johan	Andersson, Mr. August Edvard ("Wennerstrom")
+Andersson, Mr. Anders Johan	Andersson, Miss. Ingeborg Constanzia
+Andersson, Mr. Anders Johan	Andersson, Miss. Sigrid Elisabeth
+Andersson, Mr. Anders Johan	Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)
+Andersson, Mr. Anders Johan	Andersson, Miss. Ebba Iris Alfrida
+Andersson, Mr. Anders Johan	Andersson, Master. Sigvard Harald Elias
+Rice, Master. Eugene	Rice, Master. Arthur
+Rice, Master. Eugene	Rice, Master. Eric
+Rice, Master. Eugene	Rice, Master. George Hugh
+Rice, Master. Eugene	Rice, Mrs. William (Margaret Norton)
+Williams, Mr. Charles Eugene	Williams, Mr. Charles Duane
+Williams, Mr. Charles Eugene	Williams, Mr. Howard Hugh "Harry"
+Williams, Mr. Charles Eugene	Williams, Mr. Leslie
+Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)	Vander Planke, Miss. Augusta Maria
+Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)	Vander Planke, Mr. Leo Edmondus
+Palsson, Miss. Torborg Danira	Palsson, Miss. Stina Viola
+Palsson, Miss. Torborg Danira	Palsson, Mrs. Nils (Alma Cornelia Berglund)
+Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)	Asplund, Master. Clarence Gustaf Hugo
+Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)	Asplund, Miss. Lillian Gertrud
+Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)	Asplund, Master. Edvin Rojj Felix
+Fortune, Mr. Charles Alexander	Fortune, Miss. Mabel Helen
+Fortune, Mr. Charles Alexander	Fortune, Miss. Alice Elizabeth
+Fortune, Mr. Charles Alexander	Fortune, Mr. Mark
+Meyer, Mr. Edgar Joseph	Meyer, Mrs. Edgar Joseph (Leila Saks)
+Meyer, Mr. Edgar Joseph	Meyer, Mr. August
+Holverson, Mr. Alexander Oskar	Holverson, Mrs. Alexander Oskar (Mary Aline Towner)
+Vander Planke, Miss. Augusta Maria	Vander Planke, Mr. Leo Edmondus
+Nicola-Yarred, Miss. Jamila	Nicola-Yarred, Master. Elias
+Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)	Turpin, Mr. William John Robert
+Laroche, Miss. Simonne Marie Anne Andree	Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)
+Laroche, Miss. Simonne Marie Anne Andree	Laroche, Mr. Joseph Philippe Lemercier
+Arnold-Franchi, Mrs. Josef (Josefine Franchi)	Arnold-Franchi, Mr. Josef
+Panula, Master. Juha Niilo	Panula, Master. Eino Viljami
+Panula, Master. Juha Niilo	Panula, Mr. Ernesti Arvid
+Panula, Master. Juha Niilo	Panula, Mrs. Juha (Maria Emilia Ojala)
+Panula, Master. Juha Niilo	Panula, Mr. Jaako Arnold
+Panula, Master. Juha Niilo	Panula, Master. Urho Abraham
+Harper, Mrs. Henry Sleeper (Myna Haxtun)	Harper, Mr. Henry Sleeper
+Harper, Mrs. Henry Sleeper (Myna Haxtun)	Harper, Miss. Annie Jessie "Nina"
+Harper, Mrs. Henry Sleeper (Myna Haxtun)	Harper, Rev. John
+West, Miss. Constance Mirium	West, Mr. Edwy Arthur
+West, Miss. Constance Mirium	West, Mrs. Edwy Arthur (Ada Mary Worth)
+Goodwin, Master. William Frederick	Goodwin, Miss. Lillian Amy
+Goodwin, Master. William Frederick	Goodwin, Master. Sidney Leonard
+Goodwin, Master. William Frederick	Goodwin, Master. Harold Victor
+Goodwin, Master. William Frederick	Goodwin, Mrs. Frederick (Augusta Tyler)
+Goodwin, Master. William Frederick	Goodwin, Mr. Charles Edward
+Harris, Mr. Henry Birkhardt	Harris, Mr. Walter
+Harris, Mr. Henry Birkhardt	Harris, Mrs. Henry Birkhardt (Irene Wallach)
+Harris, Mr. Henry Birkhardt	Harris, Mr. George
+Skoog, Master. Harald	Skoog, Mrs. William (Anna Bernhardina Karlsson)
+Skoog, Master. Harald	Skoog, Mr. Wilhelm
+Skoog, Master. Harald	Skoog, Miss. Mabel
+Skoog, Master. Harald	Skoog, Miss. Margit Elizabeth
+Skoog, Master. Harald	Skoog, Master. Karl Thorsten
+Moubarek, Master. Gerios	Moubarek, Master. Halim Gonios ("William George")
+Andersson, Miss. Erna Alexandra	Andersson, Miss. Ellis Anna Maria
+Andersson, Miss. Erna Alexandra	Andersson, Mr. August Edvard ("Wennerstrom")
+Andersson, Miss. Erna Alexandra	Andersson, Miss. Ingeborg Constanzia
+Andersson, Miss. Erna Alexandra	Andersson, Miss. Sigrid Elisabeth
+Andersson, Miss. Erna Alexandra	Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)
+Andersson, Miss. Erna Alexandra	Andersson, Miss. Ebba Iris Alfrida
+Andersson, Miss. Erna Alexandra	Andersson, Master. Sigvard Harald Elias
+Goodwin, Miss. Lillian Amy	Goodwin, Master. Sidney Leonard
+Goodwin, Miss. Lillian Amy	Goodwin, Master. Harold Victor
+Goodwin, Miss. Lillian Amy	Goodwin, Mrs. Frederick (Augusta Tyler)
+Goodwin, Miss. Lillian Amy	Goodwin, Mr. Charles Edward
+Caldwell, Master. Alden Gates	Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)
+Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)	Backstrom, Mr. Karl Alfred
+Ford, Mr. William Neal	Ford, Miss. Robina Maggie "Ruby"
+Ford, Mr. William Neal	Ford, Miss. Doolina Margaret "Daisy"
+Ford, Mr. William Neal	Ford, Mrs. Edward (Margaret Ann Watson)
+Fortune, Miss. Mabel Helen	Fortune, Miss. Alice Elizabeth
+Fortune, Miss. Mabel Helen	Fortune, Mr. Mark
+Dean, Mr. Bertram Frank	Dean, Master. Bertram Vere
+Doling, Mrs. John T (Ada Julia Bone)	Doling, Miss. Elsie
+Kantor, Mr. Sinai	Kantor, Mrs. Sinai (Miriam Sternin)
+Petroff, Mr. Pastcho ("Pentcho")	Petroff, Mr. Nedelio
+White, Mr. Richard Frasar	White, Mr. Percival Wayland
+Johansson, Mr. Gustaf Joel	Johansson, Mr. Erik
+Johansson, Mr. Gustaf Joel	Johansson, Mr. Karl Johan
+Gustafsson, Mr. Anders Vilhelm	Gustafsson, Mr. Karl Gideon
+Gustafsson, Mr. Anders Vilhelm	Gustafsson, Mr. Johan Birger
+Gustafsson, Mr. Anders Vilhelm	Gustafsson, Mr. Alfred Ossian
+Moran, Miss. Bertha	Moran, Mr. Daniel J
+Zabour, Miss. Hileni	Zabour, Miss. Thamine
+Jussila, Miss. Katriina	Jussila, Miss. Mari Aina
+Jussila, Miss. Katriina	Jussila, Mr. Eiriik
+Attalah, Miss. Malake	Attalah, Mr. Sleiman
+Baxter, Mr. Quigg Edmond	Baxter, Mrs. James (Helene DeLaudeniere Chaput)
+Andersson, Miss. Ellis Anna Maria	Andersson, Mr. August Edvard ("Wennerstrom")
+Andersson, Miss. Ellis Anna Maria	Andersson, Miss. Ingeborg Constanzia
+Andersson, Miss. Ellis Anna Maria	Andersson, Miss. Sigrid Elisabeth
+Andersson, Miss. Ellis Anna Maria	Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)
+Andersson, Miss. Ellis Anna Maria	Andersson, Miss. Ebba Iris Alfrida
+Andersson, Miss. Ellis Anna Maria	Andersson, Master. Sigvard Harald Elias
+Hickman, Mr. Stanley George	Hickman, Mr. Leonard Mark
+Hickman, Mr. Stanley George	Hickman, Mr. Lewis
+Webber, Miss. Susan	Webber, Mr. James
+Peter, Miss. Anna	Peter, Mrs. Catherine (Catherine Rizk)
+Boulos, Mrs. Joseph (Sultana)	Boulos, Mr. Hanna
+Boulos, Mrs. Joseph (Sultana)	Boulos, Miss. Nourelain
+Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)	Hakkarainen, Mr. Pekka Pietari
+Andersson, Mr. August Edvard ("Wennerstrom")	Andersson, Miss. Ingeborg Constanzia
+Andersson, Mr. August Edvard ("Wennerstrom")	Andersson, Miss. Sigrid Elisabeth
+Andersson, Mr. August Edvard ("Wennerstrom")	Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)
+Andersson, Mr. August Edvard ("Wennerstrom")	Andersson, Miss. Ebba Iris Alfrida
+Andersson, Mr. August Edvard ("Wennerstrom")	Andersson, Master. Sigvard Harald Elias
+Ford, Miss. Robina Maggie "Ruby"	Ford, Miss. Doolina Margaret "Daisy"
+Ford, Miss. Robina Maggie "Ruby"	Ford, Mrs. Edward (Margaret Ann Watson)
+Navratil, Mr. Michel ("Louis M Hoffman")	Navratil, Master. Michel M
+Navratil, Mr. Michel ("Louis M Hoffman")	Navratil, Master. Edmond Roger
+Pears, Mrs. Thomas (Edith Wearne)	Pears, Mr. Thomas Clinton
+Olsen, Mr. Ole Martin	Olsen, Mr. Karl Siegwart Andreas
+Olsen, Mr. Ole Martin	Olsen, Mr. Henry Margido
+Williams, Mr. Charles Duane	Williams, Mr. Howard Hugh "Harry"
+Williams, Mr. Charles Duane	Williams, Mr. Leslie
+Sage, Master. Thomas Henry	Sage, Miss. Constance Gladys
+Sage, Master. Thomas Henry	Sage, Mr. Frederick
+Sage, Master. Thomas Henry	Sage, Mr. George John Jr
+Sage, Master. Thomas Henry	Sage, Miss. Stella Anna
+Sage, Master. Thomas Henry	Sage, Mr. Douglas Bullen
+Sage, Master. Thomas Henry	Sage, Miss. Dorothy Edith "Dolly"
+Calic, Mr. Jovo	Calic, Mr. Petar
+Panula, Master. Eino Viljami	Panula, Mr. Ernesti Arvid
+Panula, Master. Eino Viljami	Panula, Mrs. Juha (Maria Emilia Ojala)
+Panula, Master. Eino Viljami	Panula, Mr. Jaako Arnold
+Panula, Master. Eino Viljami	Panula, Master. Urho Abraham
+Goldsmith, Master. Frank John William "Frankie"	Goldsmith, Mrs. Frank John (Emily Alice Brown)
+Goldsmith, Master. Frank John William "Frankie"	Goldsmith, Mr. Frank John
+Skoog, Mrs. William (Anna Bernhardina Karlsson)	Skoog, Mr. Wilhelm
+Skoog, Mrs. William (Anna Bernhardina Karlsson)	Skoog, Miss. Mabel
+Skoog, Mrs. William (Anna Bernhardina Karlsson)	Skoog, Miss. Margit Elizabeth
+Skoog, Mrs. William (Anna Bernhardina Karlsson)	Skoog, Master. Karl Thorsten
+Rice, Master. Arthur	Rice, Master. Eric
+Rice, Master. Arthur	Rice, Master. George Hugh
+Rice, Master. Arthur	Rice, Mrs. William (Margaret Norton)
+Johnson, Miss. Eleanor Ileen	Johnson, Mr. William Cahoone Jr
+Johnson, Miss. Eleanor Ileen	Johnson, Mr. Alfred
+Johnson, Miss. Eleanor Ileen	Johnson, Mr. Malkolm Joackim
+Johnson, Miss. Eleanor Ileen	Johnson, Master. Harold Theodor
+Smith, Mr. James Clinch	Smith, Mr. Thomas
+Smith, Mr. James Clinch	Smith, Mr. Richard William
+Smith, Mr. James Clinch	Smith, Miss. Marion Elsie
+Lefebre, Master. Henry Forbes	Lefebre, Miss. Mathilde
+Lefebre, Master. Henry Forbes	Lefebre, Miss. Ida
+Lefebre, Master. Henry Forbes	Lefebre, Miss. Jeannie
+Sage, Miss. Constance Gladys	Sage, Mr. Frederick
+Sage, Miss. Constance Gladys	Sage, Mr. George John Jr
+Sage, Miss. Constance Gladys	Sage, Miss. Stella Anna
+Sage, Miss. Constance Gladys	Sage, Mr. Douglas Bullen
+Sage, Miss. Constance Gladys	Sage, Miss. Dorothy Edith "Dolly"
+Asplund, Master. Clarence Gustaf Hugo	Asplund, Miss. Lillian Gertrud
+Asplund, Master. Clarence Gustaf Hugo	Asplund, Master. Edvin Rojj Felix
+Becker, Master. Richard F	Becker, Miss. Marion Louise
+O'Brien, Mrs. Thomas (Johanna "Hannah" Godfrey)	O'Brien, Mr. Thomas
+O'Brien, Mrs. Thomas (Johanna "Hannah" Godfrey)	O'Brien, Mr. Timothy
+Bourke, Mr. John	Bourke, Miss. Mary
+Bourke, Mr. John	Bourke, Mrs. John (Catherine)
+Navratil, Master. Michel M	Navratil, Master. Edmond Roger
+Brown, Mrs. James Joseph (Margaret Tobin)	Brown, Miss. Amelia "Mildred"
+Brown, Mrs. James Joseph (Margaret Tobin)	Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)
+Brown, Mrs. James Joseph (Margaret Tobin)	Brown, Mr. Thomas William Solomon
+Olsen, Mr. Karl Siegwart Andreas	Olsen, Mr. Henry Margido
+Sage, Mr. Frederick	Sage, Mr. George John Jr
+Sage, Mr. Frederick	Sage, Miss. Stella Anna
+Sage, Mr. Frederick	Sage, Mr. Douglas Bullen
+Sage, Mr. Frederick	Sage, Miss. Dorothy Edith "Dolly"
+Strom, Miss. Telma Matilda	Strom, Mrs. Wilhelm (Elna Matilda Persson)
+Ali, Mr. Ahmed	Ali, Mr. William
+Newell, Miss. Madeleine	Newell, Miss. Marjorie
+Newell, Miss. Madeleine	Newell, Mr. Arthur Webster
+Jacobsohn, Mr. Sidney Samuel	Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)
+Harris, Mr. Walter	Harris, Mrs. Henry Birkhardt (Irene Wallach)
+Harris, Mr. Walter	Harris, Mr. George
+Hoyt, Mr. Frederick Maxfield	Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)
+Hoyt, Mr. Frederick Maxfield	Hoyt, Mr. William Fisher
+Lefebre, Miss. Mathilde	Lefebre, Miss. Ida
+Lefebre, Miss. Mathilde	Lefebre, Miss. Jeannie
+Harris, Mrs. Henry Birkhardt (Irene Wallach)	Harris, Mr. George
+Larsson, Mr. Bengt Edvin	Larsson, Mr. August Viktor
+Asplund, Miss. Lillian Gertrud	Asplund, Master. Edvin Rojj Felix
+Collyer, Miss. Marjorie "Lottie"	Collyer, Mr. Harvey
+Collyer, Miss. Marjorie "Lottie"	Collyer, Mrs. Harvey (Charlotte Annie Tate)
+Murphy, Miss. Katherine "Kate"	Murphy, Miss. Margaret Jane
+Minahan, Dr. William Edward	Minahan, Miss. Daisy E
+Hamalainen, Mrs. William (Anna)	Hamalainen, Master. Viljo
+Beckwith, Mr. Richard Leonard	Beckwith, Mrs. Richard Leonard (Sallie Monypeny)
+Carter, Rev. Ernest Courtenay	Carter, Mr. William Ernest
+Carter, Rev. Ernest Courtenay	Carter, Miss. Lucile Polk
+Carter, Rev. Ernest Courtenay	Carter, Mrs. William Ernest (Lucile Polk)
+Carter, Rev. Ernest Courtenay	Carter, Master. William Thornton II
+Carter, Rev. Ernest Courtenay	Carter, Mrs. Ernest Courtenay (Lilian Hughes)
+Lobb, Mr. William Arthur	Lobb, Mrs. William Arthur (Cordelia K Stanlick)
+Rosblom, Mrs. Viktor (Helena Wilhelmina)	Rosblom, Mr. Viktor Richard
+Smith, Mr. Thomas	Smith, Mr. Richard William
+Smith, Mr. Thomas	Smith, Miss. Marion Elsie
+Taussig, Mr. Emil	Taussig, Mrs. Emil (Tillie Mandelbaum)
+Taussig, Mr. Emil	Taussig, Miss. Ruth
+Panula, Mr. Ernesti Arvid	Panula, Mrs. Juha (Maria Emilia Ojala)
+Panula, Mr. Ernesti Arvid	Panula, Mr. Jaako Arnold
+Panula, Mr. Ernesti Arvid	Panula, Master. Urho Abraham
+Graham, Mrs. William Thompson (Edith Junkins)	Graham, Mr. George Edward
+Graham, Mrs. William Thompson (Edith Junkins)	Graham, Miss. Margaret Edith
+Mellinger, Mrs. (Elizabeth Anne Maidment)	Mellinger, Miss. Madeleine Violet
+Andrews, Miss. Kornelia Theodosia	Andrews, Mr. Thomas Jr
+Rice, Master. Eric	Rice, Master. George Hugh
+Rice, Master. Eric	Rice, Mrs. William (Margaret Norton)
+Abbott, Mrs. Stanton (Rosa Hunt)	Abbott, Mr. Rossmore Edward
+Olsson, Mr. Nils Johan Goransson	Olsson, Miss. Elina
+Smith, Mr. Richard William	Smith, Miss. Marion Elsie
+Bishop, Mrs. Dickinson H (Helen Walton)	Bishop, Mr. Dickinson H
+Allison, Miss. Helen Loraine	Allison, Master. Hudson Trevor
+Allison, Miss. Helen Loraine	Allison, Mrs. Hudson J C (Bessie Waldo Daniels)
+Kelly, Miss. Anna Katherine "Annie Kate"	Kelly, Miss. Mary
+Kelly, Miss. Anna Katherine "Annie Kate"	Kelly, Mr. James
+Kelly, Miss. Anna Katherine "Annie Kate"	Kelly, Mrs. Florence "Fannie"
+McCoy, Mr. Bernard	McCoy, Miss. Agnes
+Johnson, Mr. William Cahoone Jr	Johnson, Mr. Alfred
+Johnson, Mr. William Cahoone Jr	Johnson, Mr. Malkolm Joackim
+Johnson, Mr. William Cahoone Jr	Johnson, Master. Harold Theodor
+Keane, Miss. Nora A	Keane, Mr. Andrew "Andy"
+Williams, Mr. Howard Hugh "Harry"	Williams, Mr. Leslie
+Allison, Master. Hudson Trevor	Allison, Mrs. Hudson J C (Bessie Waldo Daniels)
+Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)	Penasco y Castellana, Mr. Victor de Satode
+Abelson, Mr. Samuel	Abelson, Mrs. Samuel (Hannah Wizosky)
+Hays, Miss. Margaret Bechstein	Hays, Mrs. Charles Melville (Clara Jennings Gregg)
+Ryerson, Miss. Emily Borie	Ryerson, Miss. Susan Parker "Suzette"
+Hart, Mr. Benjamin	Hart, Mr. Henry
+Hart, Mr. Benjamin	Hart, Mrs. Benjamin (Esther Ada Bloomfield)
+Hart, Mr. Benjamin	Hart, Miss. Eva Miriam
+Wick, Miss. Mary Natalie	Wick, Mrs. George Dennick (Mary Hitchcock)
+Sage, Mr. George John Jr	Sage, Miss. Stella Anna
+Sage, Mr. George John Jr	Sage, Mr. Douglas Bullen
+Sage, Mr. George John Jr	Sage, Miss. Dorothy Edith "Dolly"
+Goldsmith, Mrs. Frank John (Emily Alice Brown)	Goldsmith, Mr. Frank John
+Hippach, Miss. Jean Gertrude	Hippach, Mrs. Louis Albert (Ida Sophia Fischer)
+Graham, Mr. George Edward	Graham, Miss. Margaret Edith
+Frauenthal, Mrs. Henry William (Clara Heinsheimer)	Frauenthal, Dr. Henry William
+Fortune, Miss. Alice Elizabeth	Fortune, Mr. Mark
+Brown, Miss. Amelia "Mildred"	Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)
+Brown, Miss. Amelia "Mildred"	Brown, Mr. Thomas William Solomon
+Coutts, Master. William Loch "William"	Coutts, Master. Eden Leslie "Neville"
+Elias, Mr. Tannous	Elias, Mr. Joseph Jr
+Elias, Mr. Tannous	Elias, Mr. Dibo
+Skoog, Mr. Wilhelm	Skoog, Miss. Mabel
+Skoog, Mr. Wilhelm	Skoog, Miss. Margit Elizabeth
+Skoog, Mr. Wilhelm	Skoog, Master. Karl Thorsten
+Barbara, Mrs. (Catherine David)	Barbara, Miss. Saiide
+O'Brien, Mr. Thomas	O'Brien, Mr. Timothy
+Palsson, Miss. Stina Viola	Palsson, Mrs. Nils (Alma Cornelia Berglund)
+Meyer, Mrs. Edgar Joseph (Leila Saks)	Meyer, Mr. August
+Gustafsson, Mr. Karl Gideon	Gustafsson, Mr. Johan Birger
+Gustafsson, Mr. Karl Gideon	Gustafsson, Mr. Alfred Ossian
+Nakid, Miss. Maria ("Mary")	Nakid, Mr. Sahid
+Davies, Mr. Charles Henry	Davies, Master. John Morgan Jr
+Davies, Mr. Charles Henry	Davies, Mr. Alfred J
+Goodwin, Master. Sidney Leonard	Goodwin, Master. Harold Victor
+Goodwin, Master. Sidney Leonard	Goodwin, Mrs. Frederick (Augusta Tyler)
+Goodwin, Master. Sidney Leonard	Goodwin, Mr. Charles Edward
+Carter, Mr. William Ernest	Carter, Miss. Lucile Polk
+Carter, Mr. William Ernest	Carter, Mrs. William Ernest (Lucile Polk)
+Carter, Mr. William Ernest	Carter, Master. William Thornton II
+Carter, Mr. William Ernest	Carter, Mrs. Ernest Courtenay (Lilian Hughes)
+Gustafsson, Mr. Johan Birger	Gustafsson, Mr. Alfred Ossian
+Newell, Miss. Marjorie	Newell, Mr. Arthur Webster
+Johansson, Mr. Erik	Johansson, Mr. Karl Johan
+Jussila, Miss. Mari Aina	Jussila, Mr. Eiriik
+Oreskovic, Miss. Marija	Oreskovic, Mr. Luka
+Richards, Master. William Rowe	Richards, Mrs. Sidney (Emily Hocking)
+Richards, Master. William Rowe	Richards, Master. George Sibley
+Lefebre, Miss. Ida	Lefebre, Miss. Jeannie
+Hart, Mr. Henry	Hart, Mrs. Benjamin (Esther Ada Bloomfield)
+Hart, Mr. Henry	Hart, Miss. Eva Miriam
+Van Impe, Miss. Catharina	Van Impe, Mr. Jean Baptiste
+Van Impe, Miss. Catharina	Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)
+Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)	Danbom, Mr. Ernst Gilbert
+Flynn, Mr. James	Flynn, Mr. John Irwin ("Irving")
+Flynn, Mr. James	Flynn, Mr. John
+Thorneycroft, Mrs. Percival (Florence Kate White)	Thorneycroft, Mr. Percival
+Silvey, Mr. William Baird	Silvey, Mrs. William Baird (Alice Munger)
+Carter, Miss. Lucile Polk	Carter, Mrs. William Ernest (Lucile Polk)
+Carter, Miss. Lucile Polk	Carter, Master. William Thornton II
+Carter, Miss. Lucile Polk	Carter, Mrs. Ernest Courtenay (Lilian Hughes)
+Ford, Miss. Doolina Margaret "Daisy"	Ford, Mrs. Edward (Margaret Ann Watson)
+Richards, Mrs. Sidney (Emily Hocking)	Richards, Master. George Sibley
+Hart, Mrs. Benjamin (Esther Ada Bloomfield)	Hart, Miss. Eva Miriam
+Baclini, Miss. Marie Catherine	Baclini, Miss. Helene Barbara
+Baclini, Miss. Marie Catherine	Baclini, Miss. Eugenie
+Baclini, Miss. Marie Catherine	Baclini, Mrs. Solomon (Latifa Qurban)
+West, Mr. Edwy Arthur	West, Mrs. Edwy Arthur (Ada Mary Worth)
+Hagland, Mr. Ingvald Olai Olsen	Hagland, Mr. Konrad Mathias Reiersen
+Goldenberg, Mr. Samuel L	Goldenberg, Mrs. Samuel L (Edwiga Grabowska)
+Morley, Mr. William	Morley, Mr. Henry Samuel ("Mr Henry Marshall")
+Baclini, Miss. Helene Barbara	Baclini, Miss. Eugenie
+Baclini, Miss. Helene Barbara	Baclini, Mrs. Solomon (Latifa Qurban)
+Cacic, Mr. Luka	Cacic, Miss. Marija
+Renouf, Mr. Peter Henry	Renouf, Mrs. Peter Henry (Lillian Jefferys)
+Goodwin, Master. Harold Victor	Goodwin, Mrs. Frederick (Augusta Tyler)
+Goodwin, Master. Harold Victor	Goodwin, Mr. Charles Edward
+Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)	Hoyt, Mr. William Fisher
+Stanley, Mr. Edward Roland	Stanley, Miss. Amy Zillah Elsie
+Svensson, Mr. Olof	Svensson, Mr. Johan
+Quick, Mrs. Frederick Charles (Jane Richards)	Quick, Miss. Phyllis May
+Daly, Mr. Eugene Patrick	Daly, Mr. Peter Denis
+Coleff, Mr. Satio	Coleff, Mr. Peju
+Hocking, Mr. Richard George	Hocking, Mrs. Elizabeth (Eliza Needs)
+Elias, Mr. Joseph Jr	Elias, Mr. Dibo
+Crosby, Miss. Harriet R	Crosby, Capt. Edward Gifford
+Andersson, Miss. Ingeborg Constanzia	Andersson, Miss. Sigrid Elisabeth
+Andersson, Miss. Ingeborg Constanzia	Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)
+Andersson, Miss. Ingeborg Constanzia	Andersson, Miss. Ebba Iris Alfrida
+Andersson, Miss. Ingeborg Constanzia	Andersson, Master. Sigvard Harald Elias
+Andersson, Miss. Sigrid Elisabeth	Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)
+Andersson, Miss. Sigrid Elisabeth	Andersson, Miss. Ebba Iris Alfrida
+Andersson, Miss. Sigrid Elisabeth	Andersson, Master. Sigvard Harald Elias
+Beane, Mr. Edward	Beane, Mrs. Edward (Ethel Clarke)
+Davies, Master. John Morgan Jr	Davies, Mr. Alfred J
+Thayer, Mr. John Borland Jr	Thayer, Mrs. John Borland (Marian Longstreth Morris)
+Thayer, Mr. John Borland Jr	Thayer, Mr. John Borland
+Duff Gordon, Lady. (Lucille Christiana Sutherland) ("Mrs Morgan")	Duff Gordon, Sir. Cosmo Edmund ("Mr Morgan")
+Taussig, Mrs. Emil (Tillie Mandelbaum)	Taussig, Miss. Ruth
+Flynn, Mr. John Irwin ("Irving")	Flynn, Mr. John
+Kelly, Miss. Mary	Kelly, Mr. James
+Kelly, Miss. Mary	Kelly, Mrs. Florence "Fannie"
+Thayer, Mrs. John Borland (Marian Longstreth Morris)	Thayer, Mr. John Borland
+Bourke, Miss. Mary	Bourke, Mrs. John (Catherine)
+Chapman, Mr. John Henry	Chapman, Mr. Charles Henry
+Van Impe, Mr. Jean Baptiste	Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)
+Johnson, Mr. Alfred	Johnson, Mr. Malkolm Joackim
+Johnson, Mr. Alfred	Johnson, Master. Harold Theodor
+Boulos, Mr. Hanna	Boulos, Miss. Nourelain
+Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)	Laroche, Mr. Joseph Philippe Lemercier
+Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)	Andersson, Miss. Ebba Iris Alfrida
+Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)	Andersson, Master. Sigvard Harald Elias
+Herman, Miss. Alice	Herman, Mrs. Samuel (Jane Laver)
+Yasbeck, Mr. Antoni	Yasbeck, Mrs. Antoni (Selini Alexander)
+Hansen, Mr. Henry Damsgaard	Hansen, Mr. Henrik Juul
+Hansen, Mr. Henry Damsgaard	Hansen, Mr. Claus Peter
+Skoog, Miss. Mabel	Skoog, Miss. Margit Elizabeth
+Skoog, Miss. Mabel	Skoog, Master. Karl Thorsten
+Collyer, Mr. Harvey	Collyer, Mrs. Harvey (Charlotte Annie Tate)
+Panula, Mrs. Juha (Maria Emilia Ojala)	Panula, Mr. Jaako Arnold
+Panula, Mrs. Juha (Maria Emilia Ojala)	Panula, Master. Urho Abraham
+Jensen, Mr. Hans Peder	Jensen, Mr. Svend Lauritz
+Jensen, Mr. Hans Peder	Jensen, Mr. Niels Peder
+Skoog, Miss. Margit Elizabeth	Skoog, Master. Karl Thorsten
+Baclini, Miss. Eugenie	Baclini, Mrs. Solomon (Latifa Qurban)
+Harper, Mr. Henry Sleeper	Harper, Miss. Annie Jessie "Nina"
+Harper, Mr. Henry Sleeper	Harper, Rev. John
+Hickman, Mr. Leonard Mark	Hickman, Mr. Lewis
+Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)	Taylor, Mr. Elmer Zebley
+Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)	Brown, Mr. Thomas William Solomon
+Goodwin, Mrs. Frederick (Augusta Tyler)	Goodwin, Mr. Charles Edward
+Panula, Mr. Jaako Arnold	Panula, Master. Urho Abraham
+Dick, Mr. Albert Adrian	Dick, Mrs. Albert Adrian (Vera Gillespie)
+Lam, Mr. Ali	Lam, Mr. Len
+Saad, Mr. Khalil	Saad, Mr. Amin
+Kelly, Mr. James	Kelly, Mrs. Florence "Fannie"
+Hansen, Mr. Henrik Juul	Hansen, Mr. Claus Peter
+Johnson, Mr. Malkolm Joackim	Johnson, Master. Harold Theodor
+Harper, Miss. Annie Jessie "Nina"	Harper, Rev. John
+Jensen, Mr. Svend Lauritz	Jensen, Mr. Niels Peder
+Chambers, Mr. Norman Campbell	Chambers, Mrs. Norman Campbell (Bertha Griggs)
+Moor, Master. Meier	Moor, Mrs. (Beila)
+Carlsson, Mr. August Sigfrid	Carlsson, Mr. Frans Olof
+Carter, Mrs. William Ernest (Lucile Polk)	Carter, Master. William Thornton II
+Carter, Mrs. William Ernest (Lucile Polk)	Carter, Mrs. Ernest Courtenay (Lilian Hughes)
+Johnston, Mr. Andrew G	Johnston, Miss. Catherine Helen "Carrie"
+Rice, Master. George Hugh	Rice, Mrs. William (Margaret Norton)
+Sage, Miss. Stella Anna	Sage, Mr. Douglas Bullen
+Sage, Miss. Stella Anna	Sage, Miss. Dorothy Edith "Dolly"
+Carter, Master. William Thornton II	Carter, Mrs. Ernest Courtenay (Lilian Hughes)
+Andersson, Miss. Ebba Iris Alfrida	Andersson, Master. Sigvard Harald Elias
+Mallet, Mr. Albert	Mallet, Master. Andre
+Sage, Mr. Douglas Bullen	Sage, Miss. Dorothy Edith "Dolly"
