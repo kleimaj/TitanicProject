@@ -391,3 +391,537 @@ Carter, Master. William Thornton II	Carter, Mrs. Ernest Courtenay (Lilian Hughes
 Andersson, Miss. Ebba Iris Alfrida	Andersson, Master. Sigvard Harald Elias
 Mallet, Mr. Albert	Mallet, Master. Andre
 Sage, Mr. Douglas Bullen	Sage, Miss. Dorothy Edith "Dolly"
+Cumings, Mrs. John Bradley (Florence Briggs Thayer)
+Heikkinen, Miss. Laina
+McCarthy, Mr. Timothy J
+Bonnell, Miss. Elizabeth
+Saundercock, Mr. William Henry
+Vestrom, Miss. Hulda Amanda Adolfina
+Hewlett, Mrs. (Mary D Kingcome)
+Masselmani, Mrs. Fatima
+Fynney, Mr. Joseph J
+Beesley, Mr. Lawrence
+McGowan, Miss. Anna "Annie"
+Sloper, Mr. William Thompson
+Emir, Mr. Farred Chehab
+O'Dwyer, Miss. Ellen "Nellie"
+Todoroff, Mr. Lalio
+Uruchurtu, Don. Manuel E
+Spencer, Mrs. William Augustus (Marie Eugenie)
+Glynn, Miss. Mary Agatha
+Wheadon, Mr. Edward H
+Mamee, Mr. Hanna
+Cann, Mr. Ernest Charles
+Ahlin, Mrs. Johan (Johanna Persdotter Larsson)
+Kraeff, Mr. Theodor
+Devaney, Miss. Margaret Delia
+Rogers, Mr. William John
+Lennon, Mr. Denis
+O'Driscoll, Miss. Bridget
+Samaan, Mr. Youssef
+Nosworthy, Mr. Richard Cater
+Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)
+Ostby, Mr. Engelhart Cornelius
+Woolner, Mr. Hugh
+Rugg, Miss. Emily
+Novel, Mr. Mansouer
+Sirayanian, Mr. Orsen
+Icard, Miss. Amelie
+Stewart, Mr. Albert A
+Nye, Mrs. (Elizabeth Ramell)
+Crease, Mr. Ernest James
+Kink, Mr. Vincenz
+Jenkin, Mr. Stephen Curnow
+Hood, Mr. Ambrose Jr
+Chronopoulos, Mr. Apostolos
+Bing, Mr. Lee
+Moen, Mr. Sigurd Hansen
+Staneff, Mr. Ivan
+Moutal, Mr. Rahamin Haim
+Dowdell, Miss. Elizabeth
+Waelens, Mr. Achille
+Sheerlinck, Mr. Jan Baptist
+McDermott, Miss. Brigdet Delia
+Carrau, Mr. Francisco M
+Ilett, Miss. Bertha
+Slocovski, Mr. Selman Francis
+Celotti, Mr. Francesco
+Christmann, Mr. Emil
+Andreasson, Mr. Paul Edvin
+Chaffee, Mr. Herbert Fuller
+Coxon, Mr. Daniel
+Shorney, Mr. Charles Joseph
+Goldschmidt, Mr. George B
+Greenfield, Mr. William Bertram
+Petranec, Miss. Matilda
+Mionoff, Mr. Stoytcho
+Salkjelsvik, Miss. Anna Kristine
+Moss, Mr. Albert Johan
+Rekic, Mr. Tido
+Porter, Mr. Walter Chamberlain
+Barton, Mr. David John
+Pekoniemi, Mr. Edvard
+Connors, Mr. Patrick
+Moore, Mr. Leonard Charles
+McMahon, Mr. Martin
+Madsen, Mr. Fridtjof Arne
+Ekstrom, Mr. Johan
+Drazenoic, Mr. Jozef
+Coelho, Mr. Domingos Fernandeo
+Robins, Mrs. Alexander A (Grace Charity Laury)
+Weisz, Mrs. Leopold (Mathilde Francoise Pede)
+Sobey, Mr. Samuel James Hayden
+Richard, Mr. Emile
+Newsom, Miss. Helen Monypeny
+Osen, Mr. Olaf Elon
+Giglio, Mr. Victor
+Nysten, Miss. Anna Sofia
+Burke, Mr. Jeremiah
+Andrew, Mr. Edgardo Samuel
+Nicholls, Mr. Joseph Charles
+Byles, Rev. Thomas Roussel Davids
+Bateman, Rev. Robert James
+Meo, Mr. Alfonzo
+van Billiard, Mr. Austin Blyler
+Gilnagh, Miss. Katherine "Katie"
+Corn, Mr. Harry
+Smiljanic, Mr. Mile
+Cribb, Mr. John Hatfield
+Watt, Mrs. James (Elizabeth "Bessie" Inglis Milne)
+Bengtsson, Mr. John Viktor
+Chibnall, Mrs. (Edith Martha Bowerman)
+Baumann, Mr. John D
+Ling, Mr. Lee
+Van der hoef, Mr. Wyckoff
+Sivola, Mr. Antti Wilhelm
+Klasen, Mr. Klas Albin
+Isham, Miss. Ann Elizabeth
+Hale, Mr. Reginald
+Leonard, Mr. Lionel
+Pernot, Mr. Rene
+Kink-Heilmann, Miss. Luise Gretchen
+Rood, Mr. Hugh Roscoe
+Romaine, Mr. Charles Hallace ("Mr C Rolmane")
+Turcin, Mr. Stjepan
+Pinsky, Mrs. (Rosa)
+Carbines, Mr. William
+Andersen-Jensen, Miss. Carla Christine Nielsine
+Lurette, Miss. Elise
+Mernagh, Mr. Robert
+Madigan, Miss. Margaret "Maggie"
+Yrois, Miss. Henriette ("Mrs Harbeck")
+Vande Walle, Mr. Nestor Cyriel
+Johanson, Mr. Jakob Alfred
+Youseff, Mr. Gerious
+Cohen, Mr. Gurshon "Gus"
+Albimona, Mr. Nassef Cassem
+Carr, Miss. Helen "Ellen"
+Blank, Mr. Henry
+Cameron, Miss. Clear Annie
+Perkin, Mr. John Henry
+Givard, Mr. Hans Kristensen
+Kiernan, Mr. Philip
+Honkanen, Miss. Eliina
+Bazzani, Miss. Albina
+Sunderland, Mr. Victor Francis
+Bracken, Mr. James H
+Green, Mr. George Henry
+Nenkoff, Mr. Christo
+Berglund, Mr. Karl Ivar Sven
+Mellors, Mr. William John
+Lovell, Mr. John Hall ("Henry")
+Fahlstrom, Mr. Arne Jonas
+Sjostedt, Mr. Ernst Adolf
+Leyson, Mr. Robert William Norman
+Harknett, Miss. Alice Phoebe
+Hold, Mr. Stephen
+Pengelly, Mr. Frederick William
+Hunt, Mr. George Henry
+Coleridge, Mr. Reginald Charles
+Maenpaa, Mr. Matti Alexanteri
+Lindahl, Miss. Agda Thorilda Viktoria
+Reed, Mr. James George
+Stead, Mr. William Thomas
+Touma, Mrs. Darwis (Hanne Youssef Razi)
+Thorne, Mrs. Gertrude Maybelle
+Cherry, Miss. Gladys
+Ward, Miss. Anna
+Parrish, Mrs. (Lutie Davis)
+Harrison, Mr. William
+Henry, Miss. Delia
+Reeves, Mr. David
+Persson, Mr. Ernst Ulrik
+Bissette, Miss. Amelia
+Cairns, Mr. Alexander
+Tornquist, Mr. William Henry
+Natsch, Mr. Charles H
+Healy, Miss. Hanora "Nora"
+Lindblom, Miss. Augusta Charlotta
+Parkes, Mr. Francis "Frank"
+Duane, Mr. Frank
+de Pelsmaeker, Mr. Alfons
+Dorking, Mr. Edward Arthur
+Stankovic, Mr. Ivan
+de Mulder, Mr. Theodore
+Naidenoff, Mr. Penko
+Hosono, Mr. Masabumi
+Connolly, Miss. Kate
+Barber, Miss. Ellen "Nellie"
+Levy, Mr. Rene Jacques
+Haas, Miss. Aloisia
+Mineff, Mr. Ivan
+Lewy, Mr. Ervin G
+Hanna, Mr. Mansour
+Saalfeld, Mr. Adolphe
+Fleming, Miss. Margaret
+Francatelli, Miss. Laura Mabel
+Lahtinen, Mrs. William (Anna Sylfven)
+Hendekovic, Mr. Ignjac
+Nilsson, Miss. Helmina Josefina
+Moraweck, Dr. Ernest
+Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)
+Dennis, Mr. Samuel
+Danoff, Mr. Yoto
+Slayter, Miss. Hilda Mary
+Young, Miss. Marie Grice
+Nysveen, Mr. Johan Hansen
+Ball, Mrs. (Ada E Hall)
+Partner, Mr. Austen
+Denkoff, Mr. Mitto
+Burns, Miss. Elizabeth Margaret
+Dahl, Mr. Karl Edwart
+Blackwell, Mr. Stephen Weart
+Collander, Mr. Erik Gustaf
+Sedgwick, Mr. Charles Frederick Waddington
+Fox, Mr. Stanley Hubert
+Davison, Mrs. Thomas Henry (Mary E Finck)
+Dimic, Mr. Jovan
+Odahl, Mr. Nils Martin
+Williams-Lambert, Mr. Fletcher Fellows
+Yousif, Mr. Wazli
+Vanden Steen, Mr. Leo Peter
+Bowerman, Miss. Elsie Edith
+Funk, Miss. Annie Clemmer
+McGovern, Miss. Mary
+Mockler, Miss. Helen Mary "Ellie"
+del Carlo, Mr. Sebastiano
+Asim, Mr. Adola
+Adahl, Mr. Mauritz Nils Martin
+Warren, Mrs. Frank Manley (Anna Sophia Atkinson)
+Moussa, Mrs. (Mantoura Boulos)
+Jermyn, Miss. Annie
+Aubart, Mme. Leontine Pauline
+Harder, Mr. George Achilles
+Wiklund, Mr. Jakob Alfred
+Beavan, Mr. William Thomas
+Ringhini, Mr. Sante
+Landergren, Miss. Aurora Adelia
+Widener, Mr. Harry Elkins
+Betros, Mr. Tannous
+Bidois, Miss. Rosalie
+Tikkanen, Mr. Juho
+Plotcharsky, Mr. Vasil
+Buss, Miss. Kate
+Sadlier, Mr. Matthew
+Lehmann, Miss. Bertha
+Jansson, Mr. Carl Olof
+McKane, Mr. Peter David
+Pain, Dr. Alfred
+Trout, Mrs. William H (Jessie L)
+Niskanen, Mr. Juha
+Adams, Mr. John
+Gale, Mr. Shadrach
+Widegren, Mr. Carl/Charles Peter
+Birkeland, Mr. Hans Martin Monsen
+Sdycoff, Mr. Todor
+Cunningham, Mr. Alfred Fleming
+Sundman, Mr. Johan Julian
+Meek, Mrs. Thomas (Annie Louise Rowley)
+Drew, Mrs. James Vivian (Lulu Thorne Christian)
+Silven, Miss. Lyyli Karoliina
+Matthews, Mr. William John
+Gheorgheff, Mr. Stanio
+Charters, Mr. David
+Zimmerman, Mr. Leo
+Wiseman, Mr. Phillippe
+Clarke, Mrs. Charles V (Ada Maria Winfield)
+Phillips, Miss. Kate Florence ("Mrs Kate Louise Phillips Marshall")
+Pickard, Mr. Berk (Berk Trembisky)
+Bjornstrom-Steffansson, Mr. Mauritz Hakan
+Louch, Mrs. Charles Alexander (Alice Adelaide Slow)
+Kallio, Mr. Nikolai Erland
+Kvillner, Mr. Johan Henrik Johannesson
+Hampe, Mr. Leon
+Petterson, Mr. Johan Emil
+Reynaldo, Ms. Encarnacion
+Johannesen-Bratthammer, Mr. Bernt
+Dodge, Master. Washington
+Seward, Mr. Frederic Kimber
+Peuchen, Major. Arthur Godfrey
+Foreman, Mr. Benjamin Laventall
+Peduzzi, Mr. Joseph
+Jalsevac, Mr. Ivan
+Millet, Mr. Francis Davis
+Kenyon, Mrs. Frederick R (Marion)
+Toomey, Miss. Ellen
+O'Connor, Mr. Maurice
+Anderson, Mr. Harry
+Gee, Mr. Arthur H
+Milling, Mr. Jacob Christian
+Maisner, Mr. Simon
+Goncalves, Mr. Manuel Estanslas
+Campbell, Mr. William
+Smart, Mr. John Montgomery
+Scanlan, Mr. James
+Keefe, Mr. Arthur
+Jerwan, Mrs. Amin S (Marie Marthe Thuillard)
+Strandberg, Miss. Ida Sofia
+Clifford, Mr. George Quincy
+Karlsson, Mr. Nils August
+Hirvonen, Miss. Hildur E
+Frost, Mr. Anthony Wood "Archie"
+Rouse, Mr. Richard Henry
+Turkula, Mrs. (Hedwig)
+Kent, Mr. Edward Austin
+Somerton, Mr. Francis William
+Windelov, Mr. Einar
+Molson, Mr. Harry Markland
+Artagaveytia, Mr. Ramon
+Yousseff, Mr. Gerious
+Eustis, Miss. Elizabeth Mussey
+Shellard, Mr. Frederick William
+Canavan, Miss. Mary
+O'Sullivan, Miss. Bridget Mary
+Laitinen, Miss. Kristina Sofia
+Maioni, Miss. Roberta
+Bradley, Mr. George ("George Arthur Brayton")
+Lang, Mr. Fang
+McGough, Mr. James Robert
+Rothschild, Mrs. Martin (Elizabeth L. Barrett)
+Walker, Mr. William Anderson
+Lemore, Mrs. (Amelia Milley)
+Ryan, Mr. Patrick
+Angle, Mrs. William A (Florence "Mary" Agnes Hughes)
+Pavlovic, Mr. Stefo
+Perreault, Miss. Anne
+Vovk, Mr. Janko
+Lahoud, Mr. Sarkis
+Kassem, Mr. Fared
+Farrell, Mr. James
+Ridsdale, Miss. Lucy
+Farthing, Mr. John
+Salonen, Mr. Johan Werner
+Toufik, Mr. Nakli
+Butt, Major. Archibald Willingham
+LeRoy, Miss. Bertha
+Risien, Mr. Samuel Beard
+Frolicher, Miss. Hedwig Margaritha
+Douglas, Mr. Walter Donald
+Nicholson, Mr. Arthur Ernest
+Padro y Manent, Mr. Julian
+Sharp, Mr. Percival James R
+Leeni, Mr. Fahim ("Philip Zenni")
+Ohman, Miss. Velin
+Wright, Mr. George
+Robbins, Mr. Victor
+de Messemaeker, Mrs. Guillaume Joseph (Emma)
+Morrow, Mr. Thomas Rowan
+Sivic, Mr. Husein
+Norman, Mr. Robert Douglas
+Simmons, Mr. John
+Meanwell, Miss. (Marion Ogden)
+Stoytcheff, Mr. Ilia
+Doharr, Mr. Tannous
+Jonsson, Mr. Carl
+Appleton, Mrs. Edward Dale (Charlotte Lamson)
+Rush, Mr. Alfred George John
+Patchett, Mr. George
+Garside, Miss. Ethel
+Caram, Mrs. Joseph (Maria Elias)
+Christy, Miss. Julie Rachel
+Downton, Mr. William James
+Ross, Mr. John Hugo
+Paulner, Mr. Uscher
+Jarvis, Mr. John Denzil
+Frolicher-Stehli, Mr. Maxmillian
+Gilinski, Mr. Eliezer
+Murdlin, Mr. Joseph
+Rintamaki, Mr. Matti
+Stephenson, Mrs. Walter Bertram (Martha Eustis)
+Elsbury, Mr. William James
+Leitch, Miss. Jessie Wills
+Slabenoff, Mr. Petco
+Harrington, Mr. Charles H
+Torber, Mr. Ernst William
+Homer, Mr. Harry ("Mr E Haven")
+Lindell, Mr. Edvard Bengtsson
+Karaic, Mr. Milan
+Daniel, Mr. Robert Williams
+Shutes, Miss. Elizabeth W
+Jardin, Mr. Jose Neto
+Horgan, Mr. John
+Brocklebank, Mr. William Alfred
+Gavey, Mr. Lawrence
+Kimball, Mr. Edwin Nelson Jr
+Bowen, Mr. David John "Dai"
+Sutton, Mr. Frederick
+Kirkland, Rev. Charles Leonard
+Longley, Miss. Gretchen Fiske
+Bostandyeff, Mr. Guentcho
+O'Connell, Mr. Patrick D
+Barkworth, Mr. Algernon Henry Wilson
+Lundahl, Mr. Johan Svensson
+Stahelin-Maeglin, Dr. Max
+Parr, Mr. William Henry Marsh
+Davis, Miss. Mary
+Leinonen, Mr. Antti Gustaf
+Sagesser, Mlle. Emma
+Foo, Mr. Choong
+Cor, Mr. Liudevit
+Simonius-Blumer, Col. Oberst Alfons
+Willey, Mr. Edward
+Mitkoff, Mr. Mito
+Kalvik, Mr. Johannes Halvorsen
+O'Leary, Miss. Hanora "Norah"
+Hegarty, Miss. Hanora "Nora"
+Radeff, Mr. Alexander
+Eitemiller, Mr. George Floyd
+Badt, Mr. Mohamed
+Colley, Mr. Edward Pomeroy
+Lindqvist, Mr. Eino William
+Butler, Mr. Reginald Fenton
+Rommetvedt, Mr. Knud Paust
+Cook, Mr. Jacob
+Davidson, Mr. Thornton
+Mitchell, Mr. Henry Michael
+Wilhelms, Mr. Charles
+Watson, Mr. Ennis Hastings
+Edvardsson, Mr. Gustaf Hjalmar
+Sawyer, Mr. Frederick Charles
+Turja, Miss. Anna Sofia
+Cardeza, Mr. Thomas Drake Martinez
+Peters, Miss. Katie
+Hassab, Mr. Hammad
+Olsvigen, Mr. Thor Anderson
+Dakic, Mr. Branko
+Fischer, Mr. Eberhard Thelander
+Madill, Miss. Georgette Alexandra
+Karun, Miss. Manca
+Weir, Col. John
+Mullens, Miss. Katherine "Katie"
+Humblen, Mr. Adolf Mathias Nicolai Olsen
+Astor, Mrs. John Jacob (Madeleine Talmadge Force)
+Silverthorne, Mr. Spencer Victor
+Gallagher, Mr. Martin
+Calderhead, Mr. Edward Pennington
+Cleaver, Miss. Alice
+Mayne, Mlle. Berthe Antonine ("Mrs de Villiers")
+Klaber, Mr. Herman
+Greenberg, Mr. Samuel
+Soholt, Mr. Peter Andreas Lauritz Andersen
+Endres, Miss. Caroline Louise
+Troutt, Miss. Edwina Celia "Winnie"
+McEvoy, Mr. Michael
+Gillespie, Mr. William Henry
+Hodges, Mr. Henry Price
+Mannion, Miss. Margareth
+Bryhl, Mr. Kurt Arnold Gottfrid
+Ilmakangas, Miss. Pieta Sofia
+Hassan, Mr. Houssein G N
+Knight, Mr. Robert J
+Berriman, Mr. William John
+Troupiansky, Mr. Moses Aaron
+Lesurer, Mr. Gustave J
+Ivanoff, Mr. Kanio
+Nankoff, Mr. Minko
+Hawksford, Mr. Walter James
+Cavendish, Mr. Tyrell William
+McNamee, Mr. Neal
+Stranden, Mr. Juho
+Sinkkonen, Miss. Anna
+Marvin, Mr. Daniel Warner
+Connaghton, Mr. Michael
+Wells, Miss. Joan
+Vande Velde, Mr. Johannes Joseph
+Jonkoff, Mr. Lalio
+Bailey, Mr. Percy Andrew
+Theobald, Mr. Thomas Leonard
+Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)
+Garfirth, Mr. John
+Nirva, Mr. Iisakki Antino Aijo
+Barah, Mr. Hanna Assi
+Eklund, Mr. Hans Linus
+Hogeboom, Mrs. John C (Anna Andrews)
+Brewe, Dr. Arthur Jackson
+Mangan, Miss. Mary
+Gronnestad, Mr. Daniel Danielsen
+Lievens, Mr. Rene Aime
+Mack, Mrs. (Mary)
+Myhrman, Mr. Pehr Fabian Oliver Malkolm
+Tobin, Mr. Roger
+Emanuel, Miss. Virginia Ethel
+Kilgannon, Mr. Thomas J
+Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)
+Ayoub, Miss. Banoura
+Long, Mr. Milton Clyde
+Harmer, Mr. Abraham (David Lishin)
+Sjoblom, Miss. Anna Sofia
+Guggenheim, Mr. Benjamin
+Gaskell, Mr. Alfred
+Dantcheff, Mr. Ristiu
+Otter, Mr. Richard
+Leader, Dr. Alice (Farnham)
+Osman, Mrs. Mara
+Ibrahim Shawah, Mr. Yousseff
+Ponesell, Mr. Martin
+Thomas, Master. Assad Alexander
+Hedman, Mr. Oskar Arvid
+Pettersson, Miss. Ellen Natalia
+Alexander, Mr. William
+Lester, Mr. James
+Slemen, Mr. Richard James
+Tomlin, Mr. Ernest Portage
+Fry, Mr. Richard
+Heininen, Miss. Wendla Maria
+Holm, Mr. John Fredrik Alexander
+Lulic, Mr. Nikola
+Reuchlin, Jonkheer. John George
+McCormack, Mr. Thomas Joseph
+Stone, Mrs. George Nelson (Martha Evelyn)
+Augustsson, Mr. Albert
+Allum, Mr. Owen George
+Compton, Miss. Sara Rebecca
+Pasic, Mr. Jakob
+Sirota, Mr. Maurice
+Chip, Mr. Chang
+Marechal, Mr. Pierre
+Alhomaki, Mr. Ilmari Rudolf
+Mudd, Mr. Thomas Charles
+Serepeca, Miss. Augusta
+Lemberopolous, Mr. Peter L
+Culumovic, Mr. Jeso
+Abbing, Mr. Anthony
+Markoff, Mr. Marin
+Lines, Miss. Mary Conover
+Aks, Mrs. Sam (Leah Rosen)
+Razi, Mr. Raihed
+Giles, Mr. Frederick Edward
+Swift, Mrs. Frederick Joel (Margaret Welles Barron)
+Gill, Mr. John William
+Bystrom, Mrs. (Karolina)
+Duran y More, Miss. Asuncion
+Roebling, Mr. Washington Augustus II
+van Melkebeke, Mr. Philemon
+Balkic, Mr. Cerin
+Vander Cruyssen, Mr. Victor
+Najib, Miss. Adele Kiamie "Jane"
+Laleff, Mr. Kristo
+Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)
+Shelley, Mrs. William (Imanita Parrish Hall)
+Markun, Mr. Johann
+Dahlberg, Miss. Gerda Ulrika
+Banfield, Mr. Frederick James
+Sutehall, Mr. Henry Jr
+Montvila, Rev. Juozas
+Behr, Mr. Karl Howell
+Dooley, Mr. Patrick

@@ -23,14 +23,22 @@ try {
    }
     scanner.close();
     System.out.println(entries.get(0));
+    ArrayList<String> hasFamily = new ArrayList<String>();
     for (int i = 0; i < entries.size(); i++) {
       String name = entries.get(i).substring(0,entries.get(i).indexOf(','));
       for (int j = i+1; j < entries.size(); j++) {
         String name2 = entries.get(j).substring(0,entries.get(j).indexOf(','));
         if (name.equals(name2)) {
           System.out.println(entries.get(i)+ "\t" + entries.get(j));
+          hasFamily.add(entries.get(i));
+          hasFamily.add(entries.get(j));
         }
 
+      }
+    }
+    for (int i = 0; i < entries.size(); i++) {
+      if (!hasFamily.contains(entries.get(i))) {
+        System.out.println(entries.get(i));
       }
     }
   }
